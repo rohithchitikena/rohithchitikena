@@ -4,8 +4,8 @@
 
 # 👋 Hi, I'm Rohith Chitikena
 
-### Site Reliability Engineer @ Mastercard
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
+### DevOps Engineer @ Mastercard
+🚀 DevOps • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
 
 ---
 
