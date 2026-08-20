@@ -9,7 +9,7 @@
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with expertise in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments.
+I'm a passionate **DevOps Engineer** with expertise in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments.
 
 ---
 ### 🧰 Tech Stack
